@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Category name for club -->
+    <string name="category_club">Club</string>
+
+    <!-- Category name for park house -->
+    <string name="category_park_house">Park House</string>
+
+    <!-- Category name for public place -->
+    <string name="category_public_place">Public Place</string>
+
+    <!-- Category name for restaurant -->
+    <string name="category_restaurant">Restaurant</string>
+
+    <!-- Word for restaurant name -->
+    <string name="restaurant_LaFonte">La Fonte</string>
+
+    <!-- Word for restaurant name -->
+    <string name="restaurant_DidiFrieden">Didi\'s Frieden</string>
+
+    <!-- Word for restaurant name -->
+    <string name="restaurant_KroneUnterstrass">Differente - Krone Unterstrass</string>
+
+    <!-- Word for restaurant name -->
+    <string name="restaurant_Kindli">Kindli</string>
+
+    <!-- Word for restaurant name -->
+    <string name="restaurant_LindenHofKeller">Lindehofkeller</string>
+
+    <!-- Word for restaurant name -->
+    <string name="restaurant_RolliSteakhouse">Rolli\'s Steakhouse Oerlikon</string>
+
+    <!-- Word for restaurant name -->
+    <string name="restaurant_MyKitchen">My Kitchen</string>
+
+    <!-- Word for restaurant name -->
+    <string name="restaurant_Hiltl">Hiltl</string>
+
+    <!-- Value for restaurant or club rank -->
+    <string name="rank_1">#1 </string>
+
+    <!-- Value for restaurant or club rank -->
+    <string name="rank_2">#2 </string>
+
+    <!-- Value for restaurant or club rank -->
+    <string name="rank_3">#3 </string>
+
+    <!-- Value for restaurant or club rank -->
+    <string name="rank_4">#4 </string>
+
+    <!-- Value for restaurant or club rank -->
+    <string name="rank_5">#5 </string>
+
+    <!-- Value for restaurant or club rank -->
+    <string name="rank_6">#6 </string>
+
+    <!-- Value for restaurant or club rank -->
+    <string name="rank_7">#7 </string>
+
+    <!-- Value for restaurant or club rank -->
+    <string name="rank_8">#8 </string>
+
+    <!-- Name for public place -->
+    <string name="place_LakeZurich">Lake Zurich </string>
+
+    <!-- Name for public place -->
+    <string name="place_OldTown">Old Town Zurich </string>
+
+    <!-- Name for public place -->
+    <string name="place_Uetliberg">Uetliberg Mountain </string>
+
+    <!-- Name for public place -->
+    <string name="place_Art">Museum of Art </string>
+
+    <!-- Name for public place -->
+    <string name="place_Zoo">Zoo Zurich </string>
+
+    <!-- Name for public place -->
+    <string name="place_LindenHof">Lindenhofplatz </string>
+
+    <!-- Name for public place -->
+    <string name="place_Limmat">Limmat </string>
+
+    <!-- Name for public place -->
+    <string name="place_Bahnhofstrasse">Bahnhofstrasse </string>
+
+    <!-- Name for park house -->
+    <string name="parkHouse_Bleicherweg">Bleicherweg </string>
+
+    <!-- Name for park house -->
+    <string name="parkHouse_Central">Central </string>
+
+    <!-- Name for park house -->
+    <string name="parkHouse_CityParking">City Parking </string>
+
+    <!-- Name for park house -->
+    <string name="parkHouse_Feldegg">Feldegg </string>
+
+    <!-- Name for park house -->
+    <string name="parkHouse_Globus">Globus </string>
+
+    <!-- Name for park house -->
+    <string name="parkHouse_HauptBahnHof">Hauptbahnhof </string>
+
+    <!-- Name for park house -->
+    <string name="parkHouse_HohePromenade">Hohe Promenade </string>
+
+    <!-- Name for park house -->
+    <string name="parkHouse_Jelmoli">Jelmoli </string>
+
+    <!-- Value for park house capacity - expressed in no. of parking places -->
+    <string name="available_Bleicherweg">110 </string>
+
+    <!-- Value for park house capacity - expressed in no. of parking places -->
+    <string name="available_Central">18 </string>
+
+    <!-- Value for park house capacity - expressed in no. of parking places -->
+    <string name="available_CityParking">492 </string>
+
+    <!-- Value for park house capacity - expressed in no. of parking places -->
+    <string name="available_Feldegg">135 </string>
+
+    <!-- Value for park house capacity - expressed in no. of parking places -->
+    <string name="available_Globus">92 </string>
+
+    <!-- Value for park house capacity - expressed in no. of parking places -->
+    <string name="available_HauptBahnHof">128 </string>
+
+    <!-- Value for park house capacity - expressed in no. of parking places -->
+    <string name="available_HohePromenade">395 </string>
+
+    <!-- Value for park house capacity - expressed in no. of parking places -->
+    <string name="available_Jelmoli">185 </string>
+
+    <!-- Word for club name -->
+    <string name="club_Bellevue">Bellevue </string>
+
+    <!-- Word for club name -->
+    <string name="club_Hive">Hive </string>
+
+    <!-- Word for club name -->
+    <string name="club_Plazza">Plazza </string>
+
+    <!-- Word for club name -->
+    <string name="club_Terasse">Terasse </string>
+
+    <!-- Word for club name -->
+    <string name="club_Mascotte">Mascotte </string>
+
+    <!-- Word for club name -->
+    <string name="club_Jade">Jade </string>
+
+    <!-- Word for club name -->
+    <string name="club_Amber">Amber </string>
+
+    <!-- Word for club name -->
+    <string name="club_Hiltl">Hiltl </string>
+
+</resources>
